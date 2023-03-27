@@ -6,7 +6,7 @@ export default class App extends Component{
   render() {
     return(
       <View style={estilos.container}>
-        <Text style={estilos.fonte}>a
+        <Text style={estilos.fonte}>
           <Simples/>
         </Text>
       </View>
