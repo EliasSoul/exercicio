@@ -10,5 +10,8 @@ export default StyleSheet.create({
         fontSize: 24,
         fontWeigh: 'bold',
 
+    },
+    txtG:{
+        fontSize: 32
     }
 })
