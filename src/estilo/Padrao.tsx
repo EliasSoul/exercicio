@@ -13,5 +13,19 @@ export default StyleSheet.create({
     },
     txtG:{
         fontSize: 32
+    },
+    input:{
+        height: 25,
+        width: 500,
+        margin: 12,
+        borderWidth: 2,
+        borderRadius: 7,
+        textAlign: "justify",
+        padding: 5,
+        backgroundColor: '#166a1f',
+        color: '#c47777',
+        borderColor: '#c47777',
+        
+
     }
 })
